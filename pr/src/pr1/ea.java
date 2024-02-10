@@ -11,6 +11,11 @@ public class ea {
 			return base*CalculateExponent(base,exp-1);
 		}
 		
+		}
+		
+	 void display() {
+			
+			System.out.println(" jhfy ");
 	}
 
 }
